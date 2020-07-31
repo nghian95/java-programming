@@ -665,10 +665,10 @@ for (int i = 0; i < merkkijonotaulukko.length; i++) {
 
 ```java
 String[] arrayOfStrings = {"Matti L.", "Matti P.", "Matti V."};
-double[] arrayOfFloatingpoints = {1.20, 3.14, 100.0, 0.6666666667};
+double[] arrayOfFloatingPoints = {1.20, 3.14, 100.0, 0.6666666667};
 
 for (int i = 0; i < arrayOfStrings.length; i++) {
-    System.out.println(arrayOfStrings[i] + " " +  arrayOfFloatingpoints[i]);
+    System.out.println(arrayOfStrings[i] + " " +  arrayOfFloatingPoints[i]);
 }
 ```
 
@@ -718,9 +718,9 @@ for (int i = 0; i < liukulukutaulukko.length; i++) {
 
 ```java
 String[] arrayOfStrings = {"Matti L.", "Matti P.", "Matti V."};
-double[] arrayOfFloatingpoints = {1.20, 3.14, 100.0, 0.6666666667};
+double[] arrayOfFloatingPoints = {1.20, 3.14, 100.0, 0.6666666667};
 
-for (int i = 0; i < arrayOfFloatingpoints.length; i++) {
-    System.out.println(arrayOfStrings[i] + " " +  arrayOfFloatingpoints[i]);
+for (int i = 0; i < arrayOfFloatingPoints.length; i++) {
+    System.out.println(arrayOfStrings[i] + " " +  arrayOfFloatingPoints[i]);
 }
 ```
