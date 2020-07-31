@@ -1,10 +1,10 @@
 ---
 path: '/part-12/4-multidimensional-data'
 title: 'Multidimensional data'
-hidden: true
+hidden: false
 ---
 
-<text-box variant='learningObjectives' name='Oppimistavoitteet'>
+<text-box variant='learningObjectives' name='Learning objectives'>
 
 <!-- - Tunnet menetelmiä moniulotteisen tiedon esittämiseen. -->
 <!-- - Osaat luoda ja käyttää moniulotteisia taulukoita. -->
@@ -111,7 +111,7 @@ Create in the exercise base a method called `public static String arrayAsString(
 
 <!-- Kertaa yhdeksännestä osasta StringBuilderin käyttö ennen tehtävän tekoa. Alla muutamia esimerkkejä metodin odotetusta toiminnasta. -->
 
-Brush up on using StrinBuilder in part nine before taking  on this exercise. Below there are a few examples of how the method is expected to  work.
+Brush up on using StringBuilder in part nine before taking on this exercise. Below there are a few examples of how the method is expected to  work.
 
 <!-- ```java
 int rows = 2;
